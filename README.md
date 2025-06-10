@@ -18,7 +18,7 @@
    - The rest start as S, except a seeding set in B.
 
 2. Transitions per step
-   - S → B when contacted by B or Z (with β_Z > β) for zealots).
+   - S → B when contacted by B or Z (with β_Z > β) for zealotss.
    - S → V if they’re targeted by a vaccination campaign (can sweep its daily “budget”).
    - B → R via:
      - Meeting a fact-checker (“teacher”),
